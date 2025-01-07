@@ -11,7 +11,7 @@ I'm a passionate software developer with a keen interest in web development, mac
 ## Skills
 - **Languages**: Java, C, C++, Python
 - **Frameworks**: Django
-- **Tools**: Linux, Github, WSL, Docker
+- **Tools**: Linux, Git, WSL, Docker
 - **Databases**: sqlite3
 
 ## Projects
