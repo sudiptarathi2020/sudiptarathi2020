@@ -3,10 +3,10 @@
 ## About Me
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love to explore new technologies and continuously improve my skills.
 
-- 🎓 Graduated from Jahangirnagar University University with a degree in CSE.
+- 🎓 Graduated from Jahangirnagar University with a degree in CSE.
 - 🌱 Currently learning Machine Learning, Reinforcement Learning, DS, System Design, Django, Devops.
 - 💬 Ask me about Linux, Competative Programming, Data Structure and Algorithm.
-- 📫 How to reach me: jucse29.408@gmail.com, rathisudipta99@gmail.com.
+- 📫 How to reach me: mail me jucse29.408@gmail.com, rathisudipta99@gmail.com.
 
 ## Skills
 - **Languages**: Java, C, C++, Python
