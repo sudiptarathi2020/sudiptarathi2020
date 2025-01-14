@@ -1,4 +1,4 @@
-# Hello, I'm Sudipta Rathi! 👋
+# Hello, I'm Sudipta Singha Rathi! 👋
 
 ## About Me
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love to explore new technologies and continuously improve my skills.
@@ -9,7 +9,7 @@ I'm a passionate software developer with a keen interest in web development, mac
 - 📫 How to reach me: mail me jucse29.408@gmail.com, rathisudipta99@gmail.com, singha.stu2019@juniv.edu.
 
 ## Skills
-- **Languages**: Java, C, C++, Python
+- **Languages**: Java, C, C++, Python, Latex, Bash
 - **Frameworks**: Django
 - **Tools**: Linux, Git, WSL, Docker
 - **Databases**: sqlite3
@@ -23,6 +23,7 @@ Here are some of the projects I've worked on:
 - [Chess Engine](https://github.com/sudiptarathi2020/Simple-Chess-Engine) - Implementation of a simple chess engine using minimax algorithm and alpha beta pruning.
 - [Academic Report Maker](https://github.com/sudiptarathi2020/academic-report-maker) - Academic Report Maker is a Django+React based web application that allows users to upload names, codes, screenshots, writings, and chapter names to automatically generate well-structured academic reports, such as lab reports and assignments.
 - [Puddle](https://github.com/sudiptarathi2020/puddle) - Create following the tutorial (https://youtu.be/ZxMB6Njs3ck?si=aho66g2g3WHXT76N)
+- [Solved Problems on OJ](https://github.com/sudiptarathi2020/Problem-Solves)- My solution to different problems on various oj.
 
 ## GitHub Stats
 ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudiptarathi2020&show_icons=true&theme=radical)
