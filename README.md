@@ -16,14 +16,15 @@ I'm a passionate software developer with a keen interest in web development, mac
 
 ## Projects
 Here are some of the projects I've worked on:
-
-- [Django Project](https://github.com/sudiptarathi2020/JUMCMS-Jahangirnagar-University-Medical-Center-Management-System) - To improve medical center operations, JUMCMS (Jahangirnagar University Medical Center Management System) is a web application built with Django.
-- [My software engineering lab reports](https://github.com/sudiptarathi2020/Software-Engineering-Lab-CSE404-Reports.git) - My software engineering lab reports.
-- [Data Structure and Algorithm Implementation](https://github.com/sudiptarathi2020/Data-structures-and-Algorithms-in-cpp) - My templates for data structure and algorithms.
-- [Chess Engine](https://github.com/sudiptarathi2020/Simple-Chess-Engine) - Implementation of a simple chess engine using minimax algorithm and alpha beta pruning.
-- [Academic Report Maker](https://github.com/sudiptarathi2020/academic-report-maker) - Academic Report Maker is a Django+React based web application that allows users to upload names, codes, screenshots, writings, and chapter names to automatically generate well-structured academic reports, such as lab reports and assignments.
-- [Puddle](https://github.com/sudiptarathi2020/puddle) - Create following the tutorial (https://youtu.be/ZxMB6Njs3ck?si=aho66g2g3WHXT76N)
-- [Solved Problems on OJ](https://github.com/sudiptarathi2020/Problem-Solves)- My solution to different problems on various oj.
+|Project|Description|
+|---|---|
+|[Django Project](https://github.com/sudiptarathi2020/JUMCMS-Jahangirnagar-University-Medical-Center-Management-System)|To improve medical center operations, JUMCMS (Jahangirnagar University Medical Center Management System) is a web application built with Django.| 
+|[My software engineering lab reports](https://github.com/sudiptarathi2020/Software-Engineering-Lab-CSE404-Reports.git)|My software engineering lab reports.|
+|[Data Structure and Algorithm Implementation](https://github.com/sudiptarathi2020/Data-structures-and-Algorithms-in-cpp) |My templates for data structure and algorithms.|
+|[Chess Engine](https://github.com/sudiptarathi2020/Simple-Chess-Engine)|Implementation of a simple chess engine using minimax algorithm and alpha beta pruning.|
+|[Academic Report Maker](https://github.com/sudiptarathi2020/academic-report-maker)|Academic Report Maker is a Django+React based web application that allows users to upload names, codes, screenshots, writings, and chapter names to automatically generate well-structured academic reports, such as lab reports and assignments.|
+|[Puddle](https://github.com/sudiptarathi2020/puddle)| Create following the tutorial (https://youtu.be/ZxMB6Njs3ck?si=aho66g2g3WHXT76N)|
+|[Solved Problems on OJ](https://github.com/sudiptarathi2020/Problem-Solves)| My solution to different problems on various oj.|
 
 ## GitHub Stats
 ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudiptarathi2020&show_icons=true&theme=radical)
