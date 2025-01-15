@@ -20,7 +20,7 @@ I'm a passionate software developer with a keen interest in web development, mac
 Here are some of the projects I've worked on:
 |Project|Description|
 |---|---|
-|[Django Project](https://github.com/sudiptarathi2020/JUMCMS-Jahangirnagar-University-Medical-Center-Management-System)|To improve medical center operations, JUMCMS (Jahangirnagar University Medical Center Management System) is a web application built with Django.| 
+|[JUMCMS](https://github.com/sudiptarathi2020/JUMCMS-Jahangirnagar-University-Medical-Center-Management-System)|To improve medical center operations, JUMCMS (Jahangirnagar University Medical Center Management System) is a web application built with Django.| 
 |[My software engineering lab reports](https://github.com/sudiptarathi2020/Software-Engineering-Lab-CSE404-Reports.git)|My software engineering lab reports.|
 |[Data Structure and Algorithm Implementation](https://github.com/sudiptarathi2020/Data-structures-and-Algorithms-in-cpp) |My templates for data structure and algorithms.|
 |[Chess Engine](https://github.com/sudiptarathi2020/Simple-Chess-Engine)|Implementation of a simple chess engine using minimax algorithm and alpha beta pruning.|
