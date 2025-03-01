@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in web development, mac
 |Category|Technologies|
 |-----------------|-----------------------------|
 | **Languages**| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)|
-| **Frameworks**| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)|
+| **Frameworks**| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)|
 | **Tools**| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)|
 | **Databases**| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)|
 
